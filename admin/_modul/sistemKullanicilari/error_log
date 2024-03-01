@@ -1,0 +1,41 @@
+[20-Feb-2024 02:52:35 Europe/Istanbul] PHP Notice:  Undefined index: sistem_kullanici_dogum_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 10
+[20-Feb-2024 02:52:35 Europe/Istanbul] PHP Notice:  Undefined index: universite_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:35 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:39 Europe/Istanbul] PHP Notice:  Undefined index: sistem_kullanici_dogum_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 10
+[20-Feb-2024 02:52:39 Europe/Istanbul] PHP Notice:  Undefined index: universite_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:39 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:42 Europe/Istanbul] PHP Notice:  Undefined index: sistem_kullanici_dogum_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 10
+[20-Feb-2024 02:52:42 Europe/Istanbul] PHP Notice:  Undefined index: universite_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:42 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:45 Europe/Istanbul] PHP Notice:  Undefined index: sistem_kullanici_dogum_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 10
+[20-Feb-2024 02:52:45 Europe/Istanbul] PHP Notice:  Undefined index: universite_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:45 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:48 Europe/Istanbul] PHP Notice:  Undefined index: sistem_kullanici_dogum_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 10
+[20-Feb-2024 02:52:48 Europe/Istanbul] PHP Notice:  Undefined index: universite_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:48 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:51 Europe/Istanbul] PHP Notice:  Undefined index: sistem_kullanici_dogum_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 10
+[20-Feb-2024 02:52:51 Europe/Istanbul] PHP Notice:  Undefined index: universite_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:51 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:55 Europe/Istanbul] PHP Notice:  Undefined index: sistem_kullanici_dogum_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 10
+[20-Feb-2024 02:52:55 Europe/Istanbul] PHP Notice:  Undefined index: universite_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:52:55 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:54:08 Europe/Istanbul] PHP Notice:  Undefined index: universite_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:54:08 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/sistemKullanicilari/sistemKullanicilariSEG.php on line 13
+[20-Feb-2024 02:54:08 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 468
+[20-Feb-2024 02:54:08 Europe/Istanbul] PHP Notice:  Undefined variable: encoding in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 02:54:08 Europe/Istanbul] PHP Warning:  mb_substr(): Unknown encoding &quot;&quot; in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 02:55:20 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 468
+[20-Feb-2024 02:55:20 Europe/Istanbul] PHP Notice:  Undefined variable: encoding in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 02:55:20 Europe/Istanbul] PHP Warning:  mb_substr(): Unknown encoding &quot;&quot; in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 04:02:08 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 497
+[20-Feb-2024 04:02:08 Europe/Istanbul] PHP Notice:  Undefined variable: encoding in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 04:02:08 Europe/Istanbul] PHP Warning:  mb_substr(): Unknown encoding &quot;&quot; in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 04:03:00 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 468
+[20-Feb-2024 04:03:00 Europe/Istanbul] PHP Notice:  Undefined variable: encoding in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 04:03:00 Europe/Istanbul] PHP Warning:  mb_substr(): Unknown encoding &quot;&quot; in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 11:04:14 Europe/Istanbul] PHP Notice:  Undefined variable: encoding in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 11:04:14 Europe/Istanbul] PHP Warning:  mb_substr(): Unknown encoding &quot;&quot; in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 11:04:14 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 468
+[23-Feb-2024 09:02:02 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 468
+[23-Feb-2024 09:02:02 Europe/Istanbul] PHP Notice:  Undefined variable: encoding in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[23-Feb-2024 09:02:02 Europe/Istanbul] PHP Warning:  mb_substr(): Unknown encoding &quot;&quot; in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594

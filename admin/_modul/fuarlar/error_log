@@ -1,0 +1,141 @@
+[19-Feb-2024 20:27:25 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[19-Feb-2024 20:31:25 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 20:32:37 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 20:32:37 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 20:32:37 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 20:32:37 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 20:32:37 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 20:33:37 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 20:33:37 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 20:33:37 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 20:33:37 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 20:33:37 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 20:34:08 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 20:34:27 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 20:34:35 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 20:34:35 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 20:34:35 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 20:34:35 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 20:34:35 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 20:35:02 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 20:35:02 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 20:35:02 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 20:35:02 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 20:35:02 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 20:35:21 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 20:35:29 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 20:35:43 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 20:36:05 Europe/Istanbul] PHP Notice:  Undefined variable: sorgu_sonuc in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 89
+[19-Feb-2024 20:36:05 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 89
+[19-Feb-2024 20:36:05 Europe/Istanbul] PHP Notice:  Undefined variable: sorgu_sonuc in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 92
+[19-Feb-2024 20:36:05 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 92
+[19-Feb-2024 20:36:05 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[19-Feb-2024 20:36:19 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[19-Feb-2024 20:36:45 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[19-Feb-2024 22:07:39 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 22:11:39 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 22:11:39 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 22:11:39 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 22:11:39 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 22:11:39 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 22:25:48 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 22:26:20 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 22:26:57 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 22:28:24 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 22:28:24 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 22:28:24 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 22:28:24 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 22:28:24 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 22:36:56 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[19-Feb-2024 23:12:28 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:12:28 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:12:28 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:12:28 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:12:28 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:13:05 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:13:05 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:13:05 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:13:05 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:13:05 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:14:28 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:14:28 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:14:28 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:14:28 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:14:28 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:14:40 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:14:40 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:14:40 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:14:40 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:14:40 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:15:08 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:15:08 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:15:08 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:15:08 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:15:08 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:16:17 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:16:17 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:16:17 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:16:17 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:16:17 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:16:49 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:16:49 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:16:49 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:16:49 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:16:49 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:17:37 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:17:37 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:17:37 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:17:37 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:17:37 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:18:02 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:18:02 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:18:02 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:18:02 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:18:02 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:43:41 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:43:41 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:43:41 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:43:41 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:43:41 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[19-Feb-2024 23:44:10 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:44:10 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[19-Feb-2024 23:44:10 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[19-Feb-2024 23:44:10 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[19-Feb-2024 23:44:10 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[20-Feb-2024 00:06:30 Europe/Istanbul] PHP Notice:  Undefined index: fuar_sorumlu_idler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[20-Feb-2024 00:06:30 Europe/Istanbul] PHP Warning:  implode(): Invalid arguments passed in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 9
+[20-Feb-2024 00:06:30 Europe/Istanbul] PHP Notice:  Undefined index: baslama_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 10
+[20-Feb-2024 00:06:30 Europe/Istanbul] PHP Notice:  Undefined index: bitis_tarihi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 13
+[20-Feb-2024 00:06:30 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarAciklamaSEG.php on line 73
+[20-Feb-2024 03:58:58 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 03:59:16 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 03:59:23 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 06:43:33 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 06:46:18 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 06:47:25 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 06:47:34 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 06:48:59 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 06:49:09 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 06:49:17 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 08:13:26 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:18:21 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:28:58 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:29:30 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:29:54 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:29:58 Europe/Istanbul] PHP Notice:  Undefined variable: sorgu_sonuc in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 89
+[20-Feb-2024 08:29:58 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 89
+[20-Feb-2024 08:29:58 Europe/Istanbul] PHP Notice:  Undefined variable: sorgu_sonuc in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 92
+[20-Feb-2024 08:29:58 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 92
+[20-Feb-2024 08:29:58 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:31:02 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:31:40 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:32:02 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:34:49 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:34:53 Europe/Istanbul] PHP Notice:  Undefined variable: sorgu_sonuc in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 89
+[20-Feb-2024 08:34:53 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 89
+[20-Feb-2024 08:34:53 Europe/Istanbul] PHP Notice:  Undefined variable: sorgu_sonuc in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 92
+[20-Feb-2024 08:34:53 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 92
+[20-Feb-2024 08:34:53 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:39:04 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286
+[20-Feb-2024 08:40:23 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarSEG.php on line 183
+[20-Feb-2024 08:41:36 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/fuarlar/fuarlarGaleriSEG.php on line 286

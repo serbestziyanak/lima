@@ -1,0 +1,25 @@
+RewriteEngine On
+RewriteBase /
+
+
+
+# Eğer isteğin hedefi gerçek bir dosya ya da klasör DEĞİLSE
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+ErrorDocument 404 https://lima.syntaxbilisim.com/404/
+# Ardından sadece /muhendislik-fakultesi gibi URL'leri ele alalım
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ index.php?dil=$1 [L,QSA]
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/?$ index.php?dil=$1&sayfa_adi=$2 [L,QSA]
+RewriteRule ^([a-zA-Z0-9_-]+)/personel_detay/([a-zA-Z0-9_-]+)/?$ index.php?dil=$1&personel_id=$2 [L,QSA]
+RewriteRule ^([a-zA-Z0-9_-]+)/duyurular/([a-zA-Z0-9_-]+)/?$ index.php?dil=$1&duyuru_id=$2 [L,QSA]
+RewriteRule ^([a-zA-Z0-9_-]+)/haberler/([a-zA-Z0-9_-]+)/?$ index.php?dil=$1&haber_id=$2 [L,QSA]
+RewriteRule ^([a-zA-Z0-9_-]+)/etkinlikler/([a-zA-Z0-9_-]+)/?$ index.php?dil=$1&etkinlik_id=$2 [L,QSA]
+RewriteRule ^([a-zA-Z0-9_-]+)/fuardetay/([a-zA-Z0-9_-]+)/?$ index.php?dil=$1&fuar_id=$2 [L,QSA]
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/?$ index.php?dil=$1&sayfa_id=$2&sayfa_kisa_ad=$3 [L,QSA]
+
+
+# or map them to one error document:
+#RewriteCond %{REQUEST_URI} ^/404/$ [OR]
+#RewriteCond %{REQUEST_URI} ^/500/$
+#RewriteRule ^(.*)$ /pages/errors/error_redirect.php [L]

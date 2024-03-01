@@ -1,0 +1,15 @@
+[19-Feb-2024 22:33:25 Europe/Istanbul] PHP Warning:  getimagesize(): Filename cannot be empty in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/haberler/haberlerSEG.php on line 12
+[19-Feb-2024 22:33:25 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/haberler/haberlerSEG.php on line 180
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Warning:  getimagesize(): Filename cannot be empty in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/haberler/haberlerSEG.php on line 12
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Warning:  copy(../../resimler/haberler/buyuk/65d418f5d208d): failed to open stream: No such file or directory in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/haberler/haberlerSEG.php on line 111
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Warning:  getimagesize(../../resimler/haberler/buyuk/65d418f5d208d): failed to open stream: No such file or directory in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 520
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type bool in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 521
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type bool in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 522
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type bool in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 523
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Warning:  Division by zero in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 525
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Warning:  getimagesize(../../resimler/haberler/kucuk/65d418f5d208d): failed to open stream: No such file or directory in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 520
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type bool in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 521
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type bool in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 522
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type bool in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 523
+[20-Feb-2024 06:13:57 Europe/Istanbul] PHP Warning:  Division by zero in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 525
+[20-Feb-2024 06:14:02 Europe/Istanbul] PHP Notice:  Undefined index: tarih in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/haberler/haberlerSEG.php on line 25

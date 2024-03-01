@@ -1,0 +1,95 @@
+[11-Feb-2024 08:16:31 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[11-Feb-2024 08:16:31 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[11-Feb-2024 08:16:32 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[11-Feb-2024 08:16:32 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[11-Feb-2024 15:01:48 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[11-Feb-2024 15:01:48 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[11-Feb-2024 15:01:48 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[11-Feb-2024 15:01:48 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[11-Feb-2024 16:23:58 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[11-Feb-2024 16:23:58 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[11-Feb-2024 16:23:58 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[11-Feb-2024 16:23:58 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[11-Feb-2024 19:16:28 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[11-Feb-2024 19:16:28 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[11-Feb-2024 19:16:29 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[11-Feb-2024 19:16:29 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[12-Feb-2024 20:40:25 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[12-Feb-2024 20:40:25 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[12-Feb-2024 20:40:26 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[12-Feb-2024 20:40:26 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[12-Feb-2024 22:00:12 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[12-Feb-2024 22:00:12 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[12-Feb-2024 22:00:14 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[12-Feb-2024 22:00:14 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[13-Feb-2024 07:25:39 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[13-Feb-2024 07:25:39 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[13-Feb-2024 07:25:39 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[13-Feb-2024 07:25:39 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[13-Feb-2024 10:36:20 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[13-Feb-2024 10:36:20 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[13-Feb-2024 10:36:20 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[13-Feb-2024 10:36:20 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[13-Feb-2024 20:50:38 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[13-Feb-2024 20:50:38 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[13-Feb-2024 20:50:38 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[13-Feb-2024 20:50:38 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[13-Feb-2024 21:09:45 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[13-Feb-2024 21:09:45 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[13-Feb-2024 21:09:46 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[13-Feb-2024 21:09:46 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[14-Feb-2024 07:53:41 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[14-Feb-2024 07:53:41 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[14-Feb-2024 07:53:41 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[14-Feb-2024 07:53:41 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[14-Feb-2024 10:50:11 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[14-Feb-2024 10:50:11 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[14-Feb-2024 10:50:11 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type bool in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 52
+[14-Feb-2024 10:50:26 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[14-Feb-2024 10:50:26 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[14-Feb-2024 10:50:26 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type bool in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 52
+[15-Feb-2024 19:22:42 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[15-Feb-2024 19:22:42 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[15-Feb-2024 19:22:42 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[15-Feb-2024 19:22:42 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[16-Feb-2024 06:24:08 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[16-Feb-2024 06:24:08 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[16-Feb-2024 06:24:08 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[16-Feb-2024 06:24:08 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[16-Feb-2024 06:24:08 Europe/Istanbul] PHP Notice:  Undefined index: sistem_dil in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 74
+[18-Feb-2024 17:56:13 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[18-Feb-2024 17:56:13 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[18-Feb-2024 17:56:15 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[18-Feb-2024 17:56:15 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[19-Feb-2024 07:49:26 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[19-Feb-2024 07:49:26 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[19-Feb-2024 07:49:26 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[19-Feb-2024 07:49:26 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[19-Feb-2024 20:19:09 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[19-Feb-2024 20:19:09 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[19-Feb-2024 20:19:09 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[19-Feb-2024 20:19:09 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[20-Feb-2024 02:54:16 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[20-Feb-2024 02:54:16 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[20-Feb-2024 02:54:16 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[20-Feb-2024 02:54:16 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[20-Feb-2024 08:13:10 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[20-Feb-2024 08:13:10 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[20-Feb-2024 08:13:10 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[20-Feb-2024 08:13:10 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[20-Feb-2024 10:17:43 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[20-Feb-2024 10:17:43 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[20-Feb-2024 10:17:43 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[20-Feb-2024 10:17:43 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[20-Feb-2024 10:30:18 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[20-Feb-2024 10:30:18 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[20-Feb-2024 10:30:18 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[20-Feb-2024 10:30:18 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[20-Feb-2024 13:17:54 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[20-Feb-2024 13:17:54 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[20-Feb-2024 13:17:54 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[20-Feb-2024 13:17:54 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61
+[23-Feb-2024 08:59:43 Europe/Istanbul] PHP Notice:  session_start(): A session had already been started - ignoring in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 5
+[23-Feb-2024 08:59:43 Europe/Istanbul] PHP Notice:  Undefined index: firma in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 6
+[23-Feb-2024 08:59:43 Europe/Istanbul] PHP Notice:  Undefined index: sube_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 60
+[23-Feb-2024 08:59:43 Europe/Istanbul] PHP Notice:  Undefined index: subeler in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/girisKontrol.php on line 61

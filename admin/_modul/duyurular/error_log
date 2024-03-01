@@ -1,0 +1,10 @@
+[20-Feb-2024 06:15:37 Europe/Istanbul] PHP Warning:  getimagesize(): Filename cannot be empty in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 13
+[20-Feb-2024 06:17:17 Europe/Istanbul] PHP Warning:  getimagesize(): Filename cannot be empty in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 13
+[20-Feb-2024 06:17:17 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 191
+[20-Feb-2024 06:19:03 Europe/Istanbul] PHP Warning:  getimagesize(): Filename cannot be empty in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 13
+[20-Feb-2024 06:19:03 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 191
+[20-Feb-2024 06:20:29 Europe/Istanbul] PHP Warning:  getimagesize(): Filename cannot be empty in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 13
+[20-Feb-2024 06:20:58 Europe/Istanbul] PHP Warning:  getimagesize(): Filename cannot be empty in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 13
+[20-Feb-2024 06:21:21 Europe/Istanbul] PHP Warning:  getimagesize(): Filename cannot be empty in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 13
+[20-Feb-2024 06:21:46 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 191
+[20-Feb-2024 06:22:06 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/duyurular/duyurularSEG.php on line 191

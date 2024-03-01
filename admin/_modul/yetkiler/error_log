@@ -1,0 +1,2 @@
+[20-Feb-2024 10:53:27 Europe/Istanbul] PHP Notice:  Undefined variable: encoding in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594
+[20-Feb-2024 10:53:27 Europe/Istanbul] PHP Warning:  mb_substr(): Unknown encoding &quot;&quot; in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 594

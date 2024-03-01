@@ -1,0 +1,2764 @@
+Uri: https://edublink.html.devsblink.com/404.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\404.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/about-one.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\about-one.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/about-three.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\about-three.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/about-two.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\about-two.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/assets/css/app.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\app.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/animation.min.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\animation.min.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/icomoon.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\icomoon.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/jqueru-ui-min.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\jqueru-ui-min.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/lightbox.min.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\lightbox.min.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/magnifypopup.min.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\magnifypopup.min.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/odometer.min.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\odometer.min.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/remixicon.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\remixicon.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/css/vendor/tipped.min.css
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\css\vendor\tipped.min.css
+Content Type: text/css
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/icomoon.eot?wkki4d
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/icomoon.svg?wkki4d
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/icomoon.ttf?wkki4d
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/icomoon.woff?wkki4d
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/remixicon.eot?t=1590207869815
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/remixicon.svg?t=1590207869815
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/remixicon.ttf?t=1590207869815
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/remixicon.woff2?t=1590207869815
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://edublink.html.devsblink.com/assets/fonts/remixicon.woff?t=1590207869815
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-01.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-01.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-02.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-02.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-03.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-03.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-04.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-04.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-05.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-05.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-06.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-06.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-07.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-07.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-08.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-08.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-10.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-10.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-11.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-11.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-12.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-12.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-13.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-13.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-14.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-14.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-15.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-15.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-16.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-16.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-17.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-17.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-18.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-18.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-19.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-19.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-20.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-20.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-21.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-21.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-22.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-22.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/about-23.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\about-23.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/dark-shape-20.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\dark-shape-20.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/dark-shape-41.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\dark-shape-41.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/h-1-shape-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\h-1-shape-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-07.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-07.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-10.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-10.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-11.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-11.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-12.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-12.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-13.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-13.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-14.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-14.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-15.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-15.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-16.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-16.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-18.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-18.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-20.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-20.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-21.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-21.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-25.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-25.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-26.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-26.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-27.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-27.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-28.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-28.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-29.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-29.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-30.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-30.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-31.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-31.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-32.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-32.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-33.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-33.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-35.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-35.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-36.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-36.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-37.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-37.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-38.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-38.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-39.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-39.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-40.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-40.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/about/shape-41.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\about\shape-41.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/book-library.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\book-library.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/certificate-2.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\certificate-2.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/certificate.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\certificate.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/hybrid-distance-programs-2.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\hybrid-distance-programs-2.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/hybrid-distance-programs.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\hybrid-distance-programs.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/instructor.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\instructor.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/non-degree-programs.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\non-degree-programs.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/off-campus-programs.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\off-campus-programs.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/online-class.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\online-class.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/online-degree.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\online-degree.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/scholarship-facility.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\scholarship-facility.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/skilled-lecturers-2.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\skilled-lecturers-2.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/skilled-lecturers.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\skilled-lecturers.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/user-2.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\user-2.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/animated-svg-icons/user.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\animated-svg-icons\user.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/author-1.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\author-1.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/BG-1.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\BG-1.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/couple-cooking.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\couple-cooking.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/flag-boy.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\flag-boy.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/girl-1.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\girl-1.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/girl-2.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\girl-2.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/girl-3.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\girl-3.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/girl-4.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\girl-4.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/girl-5.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\girl-5.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/girl-6.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\girl-6.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/home8-vactor-bg.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\home8-vactor-bg.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/icon-1.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\icon-1.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/icon-2.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\icon-2.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/icon-3.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\icon-3.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/icon-4.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\icon-4.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/icon-5.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\icon-5.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/kid-1.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\kid-1.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/kid-2.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\kid-2.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/kid-3.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\kid-3.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/kid-4.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\kid-4.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/man-1.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\man-1.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/pi-chart.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\pi-chart.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/banner/shape-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\banner\shape-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/BG-3.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\BG-3.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-1.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-1.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-1.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-1.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-10.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-10.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-13.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-13.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-14.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-14.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-17.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-17.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-18.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-18.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-19.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-19.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-2.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-2.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-2.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-20.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-20.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-21.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-21.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-22.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-22.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-24.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-24.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-25.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-25.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-27.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-27.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-29.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-29.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-3.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-3.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-3.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-3.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-32.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-32.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-33.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-33.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-34.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-34.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-35.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-35.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-36.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-36.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-37.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-37.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-38.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-38.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-4.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-4.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-4.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-4.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-5.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-5.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-6.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-6.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/bg-image-9.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\bg-image-9.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/cta-bg-imgae-07.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\cta-bg-imgae-07.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/dark-bg-image-20.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\dark-bg-image-20.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/dark-bg-image-27.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\dark-bg-image-27.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/dark-bg-imgae-26.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\dark-bg-imgae-26.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/features-bg-1.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\features-bg-1.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/features-bg-2.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\features-bg-2.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/features-bg-3.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\features-bg-3.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/features-bg-4.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\features-bg-4.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/h8-testimonial-bg.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\h8-testimonial-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/preview-course-bg.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\preview-course-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/testimonial-wave-bg.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\testimonial-wave-bg.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/bg/wave-banner.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\bg\wave-banner.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/author-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\author-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-02.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-03.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-03.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-04.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-04.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-05.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-05.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-06.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-06.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-07.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-07.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-08.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-08.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-09.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-09.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-10.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-10.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-11.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-11.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-12.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-12.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-13.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-13.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-14.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-14.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-15.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-15.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-16_1.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-16_1.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-16_2.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-16_2.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-16_3.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-16_3.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-17.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-17.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-18.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-18.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-19.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-19.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-20.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-20.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-21.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-21.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-22.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-22.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-23.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-23.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-24.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-24.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-25.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-25.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-26.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-26.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-27.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-27.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-28.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-28.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-29.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-29.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-30.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-30.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-31.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-31.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-32.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-32.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-33.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-33.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-34.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-34.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-35.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-35.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/blog-large-1.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\blog-large-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/comment-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\comment-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/comment-02.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\comment-02.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/comment-03.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\comment-03.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/features-1.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\features-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/features-2.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\features-2.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/shape-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\shape-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/small-post-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\small-post-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/small-post-02.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\small-post-02.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/blog/small-post-03.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\blog\small-post-03.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-05.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-05.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-06.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-06.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-07.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-07.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-08.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-08.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-10.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-10.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-11.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-11.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-12.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-12.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/brand/brand-13.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\brand\brand-13.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/counterup/shape-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\counterup\shape-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/counterup/shape-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\counterup\shape-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/counterup/shape-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\counterup\shape-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/counterup/shape-05.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\counterup\shape-05.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/author-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\author-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-02.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-02.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-03.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-03.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-04.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-04.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-05.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-05.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-06.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-06.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-07.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-07.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-08.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-08.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-09.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-09.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-10.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-10.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-11.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-11.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-12.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-12.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-13.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-13.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-14.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-14.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-15.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-15.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-16.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-16.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-17.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-17.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-18.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-18.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-19.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-19.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-20.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-20.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-21.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-21.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-22.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-22.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-23.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-23.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-24.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-24.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-25.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-25.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-26.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-26.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-27.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-27.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-28.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-28.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-29.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-29.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-30.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-30.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-31.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-31.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-32.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-32.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-33.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-33.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-34.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-34.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-35.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-35.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-36.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-36.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-37.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-37.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-38.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-38.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-39.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-39.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-40.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-40.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-41.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-41.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-42.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-42.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-43.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-43.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-44.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-44.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-45.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-45.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-46.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-46.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-47.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-47.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-48.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-48.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-49.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-49.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-50.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-50.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-51.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-51.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-52.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-52.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-53.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-53.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-54.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-54.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-55.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-55.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-56.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-56.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-57.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-57.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-58.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-58.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-59.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-59.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-60.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-60.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-61.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-61.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-62.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-62.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-63.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-63.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-64.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-64.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-65.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-65.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-66.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-66.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/course/course-67.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\course\course-67.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/cta-banner-remote.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\cta-banner-remote.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/cta-girl-bg.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\cta-girl-bg.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/cta-round.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\cta-round.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/cta.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\cta.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/h-4-cta-compressed.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\h-4-cta-compressed.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/h-4-cta.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\h-4-cta.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-06.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-06.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-08.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-08.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-10.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-10.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-12.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-12.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-38.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-38.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-39.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-39.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-40.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-40.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-42.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-42.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/cta/shape-43.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\cta\shape-43.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-02.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-02.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-03.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-03.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-04.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-04.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-05.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-05.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-06.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-06.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-07.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-07.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-08.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-08.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-09.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-09.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-10.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-10.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-11.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-11.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-12.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-12.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-13.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-13.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-14.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-14.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-15.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-15.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-16.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-16.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-17.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-17.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-18.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-18.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-19.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-19.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-21.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-21.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-22.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-22.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-23.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-23.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/event/event-24.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\event\event-24.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/dark-shape-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\dark-shape-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/dark-shape-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\dark-shape-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/dark-shape-13.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\dark-shape-13.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/dark-shape-14.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\dark-shape-14.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/faq-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\faq-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/faq-02.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\faq-02.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/faq-03.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\faq-03.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/faq-04.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\faq-04.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/faq-05.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\faq-05.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/faq-06.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\faq-06.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/faq-07.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\faq-07.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/faq-08.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\faq-08.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-05.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-05.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-06.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-06.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-08.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-08.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-10.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-10.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-12.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-12.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-13.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-13.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-14.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-14.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-15.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-15.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-16.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-16.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-34.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-34.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-35.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-35.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/faq/shape-36.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\faq\shape-36.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-01.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-01.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-02.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-02.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-03.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-03.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-04.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-04.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-05.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-05.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-06.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-06.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-07.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-07.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-08.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-08.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-09.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-09.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-10.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-10.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-11.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-11.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-12.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-12.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-13.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-13.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-14.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-14.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-15.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-15.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-16.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-16.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-17.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-17.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-18.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-18.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/gallery/gallery-19.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\gallery\gallery-19.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/icons/arrow-icon.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\icons\arrow-icon.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/icons/Down-Arrow.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\icons\Down-Arrow.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/icons/lg.eot?
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\icons\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edublink.html.devsblink.com/assets/images/icons/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\icons\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edublink.html.devsblink.com/assets/images/icons/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\icons\lg.ttf
+Content Type: font/ttf
+
+Uri: https://edublink.html.devsblink.com/assets/images/icons/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\icons\lg.woff
+Content Type: font/woff
+
+Uri: https://edublink.html.devsblink.com/assets/images/icons/loading.gif
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\icons\loading.gif
+Content Type: image/gif
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-01.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-01.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-02.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-02.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-03.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-03.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-04.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-04.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-05.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-05.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-06.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-06.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-07.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-07.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-08.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-08.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-09.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-09.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-10.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-10.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-11.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-11.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/instagram/instagram-12.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\instagram\instagram-12.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/logo/logo-dark-2.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\logo\logo-dark-2.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/logo/logo-dark.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\logo\logo-dark.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/logo/logo-light-2.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\logo\logo-light-2.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/logo/logo-white.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\logo\logo-white.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/3-Home-1.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\3-Home-1.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/404.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\404.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/campus-01.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\campus-01.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/contact-me.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\contact-me.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/dark-map-2-shape-3.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\dark-map-2-shape-3.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/dark-map-2.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\dark-map-2.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/dark-map-shape-3.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\dark-map-shape-3.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/dark-map-shape.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\dark-map-shape.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/dark-shape-21.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\dark-shape-21.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/faq-5.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\faq-5.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/faq-6.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\faq-6.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/faq-7.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\faq-7.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/flag-1.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\flag-1.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/flag-2.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\flag-2.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/flag-3.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\flag-3.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/flag-4.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\flag-4.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/flag-5.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\flag-5.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/flag-6.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\flag-6.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/health-shape-33.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\health-shape-33.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/health-shape-34.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\health-shape-34.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/health-shape-35.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\health-shape-35.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/map-shape-1.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\map-shape-1.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/map-shape-2.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\map-shape-2.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/map-shape-3.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\map-shape-3.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-02.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-02.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-03.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-03.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-05.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-05.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-06.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-06.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-07.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-07.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-08.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-08.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mask-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mask-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/mega-menu-image.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\mega-menu-image.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/photo-shape-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\photo-shape-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/photo-shape-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\photo-shape-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/photo-shape-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\photo-shape-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/photo-shape-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\photo-shape-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/photo-shape-05.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\photo-shape-05.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/Photo-shape-6.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\Photo-shape-6.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-01-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-01-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-02-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-02-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-03-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-03-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-04-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-04-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-05-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-05-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-05.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-05.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-06.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-06.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-07.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-07.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-08.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-08.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-10.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-10.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-11.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-11.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-12.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-12.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-13.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-13.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-14.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-14.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-15.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-15.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-16.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-16.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-17.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-17.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-18.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-18.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-19.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-19.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-20.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-20.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-21.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-21.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-22.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-22.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-23.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-23.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-24.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-24.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-25.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-25.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-26.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-26.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-27.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-27.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-30.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-30.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-31.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-31.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-32.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-32.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-33.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-33.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-34.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-34.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-35.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-35.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-36.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-36.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-37.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-37.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-38.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-38.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-39.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-39.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-41.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-41.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-42.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-42.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/shape-44.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\shape-44.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/video-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\video-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/video-01.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\video-01.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/video-02.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\video-02.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/video-03.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\video-03.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/video-5.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\video-5.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/video-6.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\video-6.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/why-choose-01.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\why-choose-01.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/why-choose-02.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\why-choose-02.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/why-choose-03.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\why-choose-03.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/why-choose-04.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\why-choose-04.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/others/why-choose-05.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\others\why-choose-05.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/banner-rtl.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\banner-rtl.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/banner-thumb1.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\banner-thumb1.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/banner-thumb2.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\banner-thumb2.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/banner-thumb3.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\banner-thumb3.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/banner-thumb4.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\banner-thumb4.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/banner-thumb5.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\banner-thumb5.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/coming-soon.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\coming-soon.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/course-details.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\course-details.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/courses.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\courses.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/dark-version.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\dark-version.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/health-coach.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\health-coach.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/home-01.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\home-01.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/home-02.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\home-02.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/home-03.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\home-03.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/home-04.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\home-04.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/home-05.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\home-05.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/home-06.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\home-06.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/home-07.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\home-07.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/home-modern-schooling.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\home-modern-schooling.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-14.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-14.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-15.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-15.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-16.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-16.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-17.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-17.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-18.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-18.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-19.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-19.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-20.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-20.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-21.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-21.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-22.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-22.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-23.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-23.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-24.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-24.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-26.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-26.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-27.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-27.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-28.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-28.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/icon-29.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\icon-29.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/inner-demo.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\inner-demo.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/instructor.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\instructor.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/Language-Academy.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\Language-Academy.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/photography.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\photography.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/remote-training.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\remote-training.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/shop-demo-left.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\shop-demo-left.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/shop-demo-main.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\shop-demo-main.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/preview/shop-demo-right.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\preview\shop-demo-right.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-01.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-01.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-02.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-02.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-03.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-03.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-04.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-04.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-05.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-05.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-06.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-06.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-07.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-07.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-08.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-08.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-09.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-09.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-10.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-10.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-11.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-11.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-12.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-12.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/shop/product-13.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\shop\product-13.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/books.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\books.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/certificate.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\certificate.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/circle-big.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\circle-big.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/circle-small.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\circle-small.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/h-8-shape-34.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\h-8-shape-34.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/h-8-shape-35.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\h-8-shape-35.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/h-8-shape-36.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\h-8-shape-36.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/icon-04.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\icon-04.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/icon-05.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\icon-05.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/icon-left.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\icon-left.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/icon-right.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\icon-right.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/instructor.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\instructor.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/online-class.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\online-class.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/quote.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/svg-icons/user.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\svg-icons\user.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-01.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-01.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-02.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-02.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-03.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-03.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-04.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-04.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-05.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-05.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-06.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-06.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-07.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-07.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-08.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-08.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-09.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-09.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-10.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-10.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-11.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-11.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-12.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-12.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-13.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-13.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-14.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-14.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-15.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-15.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-16.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-16.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-17.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-17.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-18.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-18.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-19.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-19.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-20.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-20.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/team/team-21.webp
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\team\team-21.webp
+Content Type: image/webp
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/logo-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\logo-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/logo-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\logo-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/logo-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\logo-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/shape-1.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\shape-1.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-01.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-01.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-02.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-02.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-03.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-03.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-04.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-04.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-05.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-05.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-06.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-06.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-07.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-07.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-08.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-08.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-09.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-09.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-1.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-1.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-10.png
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-10.png
+Content Type: image/png
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-11.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-11.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-12.jpg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-12.jpg
+Content Type: image/jpeg
+
+Uri: https://edublink.html.devsblink.com/assets/images/testimonial/testimonial-2.svg
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\images\testimonial\testimonial-2.svg
+Content Type: image/svg+xml
+
+Uri: https://edublink.html.devsblink.com/assets/js/app.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/backtotop.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\backtotop.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/imageloaded.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\imageloaded.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/isInViewport.jquery.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\isInViewport.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/isotop.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\isotop.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/jquery.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/lightbox.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/magnifypopup.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\magnifypopup.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/modernizr.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/odometer.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/paralax-scroll.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\paralax-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/paralax.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\paralax.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/sal.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\sal.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/smooth-scroll.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\smooth-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/svg-inject.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\svg-inject.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/tipped.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\tipped.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/assets/js/vendor/vivus.min.js
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\assets\js\vendor\vivus.min.js
+Content Type: application/javascript
+
+Uri: https://edublink.html.devsblink.com/blog-details.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\blog-details.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/blog-list.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\blog-list.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/blog-masonry.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\blog-masonry.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/blog-standard.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\blog-standard.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/cart.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\cart.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/checkout.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\checkout.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/coming-soon.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\coming-soon.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/contact-me.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\contact-me.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/contact-us.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\contact-us.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/course-details-2.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\course-details-2.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/course-details-3.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\course-details-3.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/course-details.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\course-details.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/course-five.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\course-five.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/course-four.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\course-four.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/course-one.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\course-one.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/course-three.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\course-three.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/course-two.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\course-two.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/event-details.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\event-details.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/event-grid.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\event-grid.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/event-list.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\event-list.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/faq.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\faq.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/gallery-grid.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\gallery-grid.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/gallery-masonry.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\gallery-masonry.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-distant-learning.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-distant-learning.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-health-coach.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-health-coach.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-kindergarten.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-kindergarten.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-kitchen.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-kitchen.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-landing.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-landing.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-language-academy.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-language-academy.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-modern-schooling.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-modern-schooling.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-online-academy.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-online-academy.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-photography.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-photography.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-remote-training.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-remote-training.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-university.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-university.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index-yoga.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index-yoga.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/index.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\index.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/my-account.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\my-account.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/pricing-table.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\pricing-table.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/privacy-policy.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/product-details.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\product-details.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/purchase-guide.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\purchase-guide.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/shop.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\shop.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/team-details.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\team-details.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/team-one.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\team-one.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/team-three.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\team-three.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/team-two.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\team-two.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/terms-condition.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\terms-condition.html
+Content Type: text/html
+
+Uri: https://edublink.html.devsblink.com/wishlist.html
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\wishlist.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Spartan:wght@400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spartan/v18/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrEFvm6O.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\spartan\v18\l7gAbjR61M69yt8Z8w6FZf9WoBxdBrEFvm6O.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spartan/v18/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrFbvm6O.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\spartan\v18\l7gAbjR61M69yt8Z8w6FZf9WoBxdBrFbvm6O.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spartan/v18/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrFivm6O.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\spartan\v18\l7gAbjR61M69yt8Z8w6FZf9WoBxdBrFivm6O.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spartan/v18/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrG3uW6O.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\spartan\v18\l7gAbjR61M69yt8Z8w6FZf9WoBxdBrG3uW6O.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spartan/v18/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrGFuW6O.ttf
+File Name: C:\Downloaded Web Sites\edublink.html.devsblink.com\s\spartan\v18\l7gAbjR61M69yt8Z8w6FZf9WoBxdBrGFuW6O.ttf
+Content Type: font/ttf
+

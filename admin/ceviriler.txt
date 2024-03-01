@@ -1,0 +1,729 @@
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Birimler
+Birim Ekle / Düzenle
+Dil
+Üst Birim
+Birim Adı
+Alt birimleri olacak.
+asdasdasdasd
+Sadece gruplama için kullanılacak.
+Eğer bu bir birim değil, sadece gruplama yapmak için kullanılacaksa işaretleyiniz.
+Dikkat!
+Bu Kaydı silmeniz durumunda kategori Altında bulunan diğer kategoriler silinecektir.
+Bu kaydı Silmek istediğinize emin misiniz?
+İptal
+Evet
+Yeni Birim Ekle
+Üst Birim
+Birim Adı
+Alt birimleri olacak.
+Bu birimin alt birimleri olacaksa işaretlenmelidir.
+Sadece gruplama için kullanılacak.
+asdasdasdasd
+İptal
+Kaydet
+Birim Düzenle
+Birim Adı
+Alt birimleri olacak.
+asdasdasdasd
+Sadece gruplama için kullanılacak.
+Eğer bu bir birim değil, sadece gruplama yapmak için kullanılacaksa işaretleyiniz.
+İptal
+Güncelle
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Dikkat!
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Birimler
+Duyuru Ekle
+Lütfen Birim Seçiniz
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Lütfen Dikkat
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Birimler
+Manşet Ekle
+Lütfen Birim Seçiniz
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Dikkat!
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Birimler
+Duyuru Ekle
+Lütfen Birim Seçiniz
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Dikkat!
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Duyurular
+Başlık
+Düzenle
+Sil
+Düzenle
+Sil
+Düzenle
+Sil
+Düzenle
+Sil
+Düzenle
+Sil
+Düzenle
+Sil
+Duyuru Ekle
+Dil
+Foto
+Eklediğiniz görsel 555 x 320 boyutlarında olmalıdır.
+Tarih
+Başlık
+İçerik
+Kaydet
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Lütfen Dikkat
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Birimler
+Manşet Ekle
+Lütfen Birim Seçiniz
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Lütfen Dikkat
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Manşetler
+Foto
+Sil
+asdasdasdasd
+asdasdasdasd
+asdasdasdasd
+asdasdasdasd
+Manşet Ekle
+Foto
+Eklediğiniz görsel 555 x 320 boyutlarında olmalıdır.
+Kaydet
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Lütfen Dikkat
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Birimler
+Etkinlik Ekle
+Lütfen Birim Seçiniz
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Lütfen Dikkat
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Etkinlikler
+Başlık
+Düzenle
+Sil
+Düzenle
+Sil
+Düzenle
+Sil
+Düzenle
+Sil
+Düzenle
+Sil
+Düzenle
+Sil
+Etkinlik Ekle
+Dil
+Foto
+Eklediğiniz görsel 555 x 320 boyutlarında olmalıdır.
+Tarih
+Başlık
+İçerik
+Kaydet
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Lütfen Dikkat
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Birimler
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Lütfen Dikkat
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Genel Ayarlar Düzenle
+Dil
+Logo
+Footer Logo
+Footer Sağ Alt Logo
+Footer Sağ Alt Logo Link
+Map
+Adres
+Tel
+Email
+Facebook
+Twitter
+Instagram
+Linkedin
+Youtube
+Slogan
+Anasayfa Başlık
+Anasayfa İçerik
+Öğrenci Sayısı
+Bölüm Sayısı
+Eğitmen Sayısı
+Yayın Sayısı
+Slogan
+Slogan
+Buton 1
+Buton 1 Url
+Buton 2
+Buton 2 Url
+Kaydet
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Dikkat!
+Bu kaydı silmek istediğinize emin misiniz?
+İptal
+Evet
+Yeni Sayfa Ekle
+Üst Sayfa
+Adı
+Adı
+Adı
+Adı
+Kategori Mi?
+İptal
+Kaydet
+Sayfa Düzenle
+Adı
+Adı
+Adı
+Adı
+İptal
+Güncelle
+Birimler
+Lütfen Birim Seçiniz
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Dikkat!
+Bu kaydı silmek istediğinize emin misiniz?
+İptal
+Evet
+Yeni Sayfa Ekle
+Üst Sayfa
+Adı
+Adı
+Adı
+Adı
+Kategori Mi?
+İptal
+Kaydet
+Sayfa Düzenle
+Adı
+Adı
+Adı
+Adı
+İptal
+Güncelle
+Birim Sayfaları
+Sayfalar
+asdasdasdasd
+Dil
+Sayfa Ayarları
+Aktif
+İşaretlenmezse Sayfa Yayınlanmaz
+Harici Sayfa
+Menüde görünmeyecek sayfalar için işaretlenmelidir.
+Link
+Bu alana Link eklenirse menü bu linke yönlendirilecektir.
+Sayfa İçeriği
+Başlık
+İçerik
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+Lütfen Dikkat
+Bu kaydı silmek istediğinize emin misiniz?
+Hayır
+Evet
+Personeller
+In No
+Adı Soyadı
+Profil
+Düzenle
+Sil
+Düzenle
+Sil
+Personel Ekle
+Fotoğraf değiştirmek için fotoğrafa tıklayınız
+Birim
+Birimler
+Personel Niteliği
+Seçiniz
+Personel Türü
+Seçiniz
+Kişisel Bilgiler
+Uyruk
+Seçiniz
+In Numarası
+Vatandaşlık No
+Pasaport No
+Ünvan
+Seçiniz
+Adı
+Soyadı
+Cinsiyet
+Kadın
+Erkek
+Doğum Tarihi
+Medeni Durumu
+Bekar
+Evli
+Kan Grubu
+Seçiniz
+Araç Plaka
+Engel Bilgileri
+Engel Durumu
+Yok
+Var
+Engel Türü
+Eğitim Bilgileri
+Eğitim Düzeyi
+Seçiniz
+İletişim Bilgileri
+GSM 1
+GSM 2
+İş Telefonu
+Email
+Ev Adresi
+İş Adresi
+Sözleşme Bilgileri
+İşe Başlama Tarihi
+Sözleşme Başlama Tarihi
+Sözleşme Bitiş Tarihi
+Şifre Değiştir
+Şifre
+Kaydet
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri
+AYU İnsan Kaynakları
+MENÜ
+Anasayfa
+Panel Çevirileri
+Web Çevirileri
+Birim Ağacı
+Birim Sayfaları
+Duyurular
+Manşetler
+Etkinlikler
+Genel Ayarlar
+Birim Sayfaları
+Personeller
+Öğrenim Bilgileri
+Sabit Tanımlar
+Görev Kategorileri
+Sistem Kullanıcıları
+Sistem İşlemleri
+Yetkiler
+Modul Yetkileri

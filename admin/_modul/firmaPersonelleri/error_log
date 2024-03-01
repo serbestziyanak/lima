@@ -1,0 +1,17 @@
+[20-Feb-2024 03:50:24 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 497
+[20-Feb-2024 03:50:24 Europe/Istanbul] PHP Notice:  Undefined index: firma_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 86
+[20-Feb-2024 03:50:24 Europe/Istanbul] PHP Notice:  Undefined index: adi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 87
+[20-Feb-2024 03:50:24 Europe/Istanbul] PHP Notice:  Undefined index: soyadi in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 88
+[20-Feb-2024 03:50:24 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 92
+[20-Feb-2024 03:50:24 Europe/Istanbul] PHP Notice:  Undefined index: notlar in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 93
+[20-Feb-2024 03:51:11 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 497
+[20-Feb-2024 03:51:11 Europe/Istanbul] PHP Notice:  Undefined index: firma_id in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 86
+[20-Feb-2024 03:51:11 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 92
+[20-Feb-2024 03:51:11 Europe/Istanbul] PHP Notice:  Undefined index: notlar in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 93
+[20-Feb-2024 03:52:43 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 497
+[20-Feb-2024 03:52:43 Europe/Istanbul] PHP Notice:  Undefined index: notlar in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 93
+[20-Feb-2024 03:53:06 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 497
+[20-Feb-2024 03:53:06 Europe/Istanbul] PHP Notice:  Undefined index: notlar in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 93
+[20-Feb-2024 04:38:50 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 497
+[20-Feb-2024 04:38:50 Europe/Istanbul] PHP Notice:  Undefined index: notlar in /home/syntaxbi/lima.syntaxbilisim.com/admin/_modul/firmaPersonelleri/firmaPersonelleriSEG.php on line 93
+[20-Feb-2024 04:53:12 Europe/Istanbul] PHP Notice:  Only variables should be passed by reference in /home/syntaxbi/lima.syntaxbilisim.com/admin/_cekirdek/fonksiyonlar.php on line 497

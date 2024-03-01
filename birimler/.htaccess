@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteBase /
+
+ErrorDocument 404 https://test.ayu.edu.kz/birimler/404/error
+
+# Eğer isteğin hedefi gerçek bir dosya ya da klasör DEĞİLSE
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Öncelikle /muhendislik-fakultesi/about-us gibi URL'leri ele alalım
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/?$ birimler/index.php?dil=$1&kisa_ad=$2&sayfa_turu=$3&id=$4 [L,QSA]
+
+# Öncelikle /muhendislik-fakultesi/about-us gibi URL'leri ele alalım
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/?$ birimler/index.php?dil=$1&kisa_ad=$2&sayfa_kisa_ad=$3 [L,QSA]
+
+# Ardından sadece /muhendislik-fakultesi gibi URL'leri ele alalım
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/?$ birimler/index.php?dil=$1&kisa_ad=$2 [L,QSA]
