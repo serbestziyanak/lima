@@ -12,10 +12,8 @@ class VeriTabani {
 		$this->hataTopluIslem	= false;
 
 		try { 
-            if( $_SERVER['SERVER_NAME'] == "localhost" )
-				
-                $this->vt = new PDO( "mysql:host=localhost; dbname=ayu_hr", "root", "" ); 
-
+            if( $_SERVER['SERVER_NAME'] == "localhost" )				
+                $this->vt = new PDO( "mysql:host=localhost; dbname=lima", "root", "" ); 
             else
                 $this->vt = new PDO( "mysql:host=localhost; dbname=syntaxbi_lima", "syntaxbi_lima", "O.#f#X2^bNO=" );
         } catch ( PDOException $e ) {
